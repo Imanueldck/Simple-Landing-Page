@@ -1,1 +1,1 @@
-# Simple-Landing-Page
+Create a Simple Landing Page "Trendz Store"
